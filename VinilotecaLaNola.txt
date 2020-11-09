@@ -1,0 +1,15 @@
+Parametros:
+1- Album, Nombre, Foto
+2- Identificar ambos lados, con esto las canciones de cada lado.
+3- Canción
+4- intérprete
+5- Género
+6- Posición, código de identificación
+
+Items Por resolver:
+- Cómo van a digitar los datos los empleados de mi tío?
+- Subir toda la información de una vez (Incluyendo las fotos)
+- Organizar/Buscar un motor de Busqueda que sea independiente de la variable
+- 
+
+
